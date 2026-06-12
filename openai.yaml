@@ -1,0 +1,4 @@
+interface:
+  display_name: "LogoUp Model Code"
+  short_description: "Generate polished animated LogoUp 3D model code."
+  default_prompt: "Use $logoup-model-code to create an animated LogoUp model for a smart school invention."
