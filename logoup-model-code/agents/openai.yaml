@@ -1,0 +1,4 @@
+interface:
+  display_name: "LogoUp Model Code"
+  short_description: "Generate self-contained polished animated LogoUp3D model code."
+  default_prompt: "Use $logoup-model-code in self-contained mode to create a recognizable, connected, animated LogoUp3D smart school invention. Use the bundled offline rules and example patterns first; local PDF/example files are optional extras only."
